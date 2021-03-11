@@ -1,3 +1,26 @@
+# Basic Portfolio Site
+
+## Snapshots of the Web-App
+
+### Main Page
+![image](https://user-images.githubusercontent.com/46965764/110795600-0af16280-829d-11eb-9026-5e267aa6dd38.JPG)
+
+### Resume Page
+![image](https://user-images.githubusercontent.com/46965764/110795793-3f651e80-829d-11eb-8e85-7b2dd019f264.JPG)
+
+### Projects Page
+![image](https://user-images.githubusercontent.com/46965764/110795635-13499d80-829d-11eb-8f58-ee41efd6a0ea.JPG)
+
+### Contact Me Page
+![image](https://user-images.githubusercontent.com/46965764/110795648-16448e00-829d-11eb-88c7-b2cf77012064.JPG)
+
+
+## Technology Stack
+### Framework - ReactJS
+### UI Library - React-MDL
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
